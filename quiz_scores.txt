@@ -1,0 +1,15 @@
+khansa: 90
+sana: 60
+sana: 10
+jiya: 20
+jiya: 50
+yumna: 30
+maha: 10
+
+urooj: 10
+javeria: 10
+: 10
+: 10
+saman: 180
+bareera: 10
+laiba: 20
